@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Galvanize_Carousel/static/css/main.0c1ba33b.chunk.css",
+    "main.js": "/Galvanize_Carousel/static/js/main.6cf98107.chunk.js",
+    "main.js.map": "/Galvanize_Carousel/static/js/main.6cf98107.chunk.js.map",
+    "runtime-main.js": "/Galvanize_Carousel/static/js/runtime-main.2feb714c.js",
+    "runtime-main.js.map": "/Galvanize_Carousel/static/js/runtime-main.2feb714c.js.map",
+    "static/css/2.6b560088.chunk.css": "/Galvanize_Carousel/static/css/2.6b560088.chunk.css",
+    "static/js/2.35c7e73b.chunk.js": "/Galvanize_Carousel/static/js/2.35c7e73b.chunk.js",
+    "static/js/2.35c7e73b.chunk.js.map": "/Galvanize_Carousel/static/js/2.35c7e73b.chunk.js.map",
+    "static/js/3.b9cad896.chunk.js": "/Galvanize_Carousel/static/js/3.b9cad896.chunk.js",
+    "static/js/3.b9cad896.chunk.js.map": "/Galvanize_Carousel/static/js/3.b9cad896.chunk.js.map",
+    "index.html": "/Galvanize_Carousel/index.html",
+    "static/css/2.6b560088.chunk.css.map": "/Galvanize_Carousel/static/css/2.6b560088.chunk.css.map",
+    "static/css/main.0c1ba33b.chunk.css.map": "/Galvanize_Carousel/static/css/main.0c1ba33b.chunk.css.map",
+    "static/js/2.35c7e73b.chunk.js.LICENSE.txt": "/Galvanize_Carousel/static/js/2.35c7e73b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2feb714c.js",
+    "static/css/2.6b560088.chunk.css",
+    "static/js/2.35c7e73b.chunk.js",
+    "static/css/main.0c1ba33b.chunk.css",
+    "static/js/main.6cf98107.chunk.js"
+  ]
+}
